@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yasas Sri Udara Medagedara</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
+---
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasassri2002&label=Profile%20views&color=0e75b6&style=flat" alt="yasassri2002" /> </p>
 
 - 🌱 I’m currently learning **Springboot**
@@ -9,6 +12,8 @@
 - 📫 How to reach me **srimedagedara234@gmail.com**
 
 - ⚡ Fun fact **I love playing video games.**
+
+---
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -27,6 +32,8 @@
   </td>
 </tr>
 </table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
