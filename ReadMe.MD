@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Hugo framework**
+- 🌱 I’m currently learning **AI and machine learning**
 
 - 👨‍💻 All of my projects are available at @github:YasasSri2002
 
