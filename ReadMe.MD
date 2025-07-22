@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasas-sri-udara&label=Profile%20views&color=0e75b6&style=flat" alt="yasas-sri-udara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YasasSri2002&label=Profile%20views&color=0e75b6&style=flat" alt="YasasSri2002" /> </p>
 
 # 💫 About Me:
 
