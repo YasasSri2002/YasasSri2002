@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🤝 I’m looking for help with: Expanding my tech skills<br>🌱 I’m currently learning: Next js, tailwind,springboot, java and securuty to make my apps more secure <br>💬 Ask me about: Coding, gaming, or anime!<br>⚡ Fun fact: `while(true){ if(kda<0.5) System.out.print("supp diff "); } // VayneMain@Gold`
+🤝 I’m looking for help with: Expanding my tech skills<br>🌱 I’m currently learning: Next js, tailwind,springboot, java and security to make my apps more secure <br>💬 Ask me about: Coding, gaming, or anime!<br>⚡ Fun fact: `while(true){ if(kda<0.5) System.out.print("supp diff "); } // VayneMain@Gold`
 
 
 ## 🌐 Socials:
